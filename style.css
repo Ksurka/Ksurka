@@ -18,22 +18,23 @@
   }
   
   p, h4, h5, h6, ul {
-      margin: 20px;
+      margin: 15px;
       color: rgb(133, 172, 220);
   }
   
    h2, h3 {
-      margin: 20px;
+      margin: 10px;
       color: rgb(159, 192, 215);
   }
   
   h1 {
     color: rgba(251, 251, 251, 0.992);
+    margin:15px;
   }
   img {
-      margin-top: 5px;
+      margin-top: 0px;
       margin-bottom: 0px;
-      margin-left: 10px;
+      margin-left: 20px;
       margin-right: 10px;
     }
   
