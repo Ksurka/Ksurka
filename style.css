@@ -155,3 +155,15 @@
       align-items: flex-start;
       min-height: 50vh;
     }
+
+    #header {
+      background-color: #36265c;
+      background-position: center;
+      background-size: contain;
+      background-repeat: no-repeat;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: flex-start;
+      min-height: 50vh;
+    }
