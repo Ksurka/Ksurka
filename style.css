@@ -59,7 +59,8 @@
       margin: 0px 0px 0px 0px;
       padding: 0;
       background-color: rgb(18, 22, 126);
-      display: table;
+      display: flex;
+      justify-content: space-between;
       position: fixed;
       top: 0;
       width: 100%;
@@ -175,7 +176,6 @@
     }
     
     #about .right-content img {
-      height: 400px;
       max-height: 400px;
       max-width: 100%;
       min-width: auto;
@@ -226,3 +226,8 @@
       width: 50px;
       height: 50px;
     }
+
+    /* .gallery {
+      display: flex;
+      flex-wrap: wrap;
+    } */
