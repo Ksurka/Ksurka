@@ -51,11 +51,14 @@
     display: block;
     padding: 8px;
   }
+
+
+  
     #menu {
       width: 100%;
       margin: 0px 0px 0px 0px;
       padding: 0;
-      background-color: rgb(10, 11, 48);
+      background-color: rgb(18, 22, 126);
       display: table;
       position: fixed;
       top: 0;
